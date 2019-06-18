@@ -448,7 +448,7 @@ class: middle
 # Simple Linear Regression
 ## The Analytical Solution
 By transforming the previous equation into its Vectorial form:
-$$\Theta = (X^TX)^{-1}X^{-1}Y$$
+$$\Theta = (X^TX)^{-1}X^TY$$
 ---
 class: top
 # Simple Linear Regression
